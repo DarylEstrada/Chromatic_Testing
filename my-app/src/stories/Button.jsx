@@ -16,6 +16,7 @@ export const Button = ({ primary, backgroundColor, size, label, ...props }) => {
     >
       {label}
     </button>
+  
   );
 };
 
